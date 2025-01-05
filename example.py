@@ -20,6 +20,15 @@ def greet(name: str) -> str:
         打招呼的字符串
     """
     return f"你好，{name}！"
+    return f"你好，{name}！"
+    return f"你好，{name}！"
+    return f"你好，{name}！"
+    return f"你好，{name}！"
+    return f"你好，{name}！"
+    return f"你好，{name}！"
+    return f"你好，{name}！"
+    return f"你好，{name}！"
+    return f"你好，{name}！"
 
 # 3. 列表操作
 fruits = ["苹果", "香蕉", "橙子"]
